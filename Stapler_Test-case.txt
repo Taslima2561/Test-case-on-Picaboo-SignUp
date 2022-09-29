@@ -1,0 +1,9 @@
+Taslima Akter - Stapler (Test case)
+1. check the stapler size.
+2.check the stapler pin size.
+3.check  if there are stapler  pins inside the stapler.
+4.Check if it staples if there is no stapler pin
+5.check the stapler pin count is decremented if after every staple.
+6.check the stapler is able to staple if it has pins
+7.check if the stapler pin count is decrement  after every staple.
+8.Check if the pin remover on the back of the stapler is usable
